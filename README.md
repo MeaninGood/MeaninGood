@@ -5,4 +5,4 @@
 
 
 # 💡 Solved.ac
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wls4845)](https://solved.ac/wls4845) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wls4845&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wls4845&theme=dark) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wls4845)](https://solved.ac/wls4845)
