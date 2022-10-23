@@ -30,7 +30,7 @@ wls4845@naver.com
 # Introduce.
 
 
-<공공 빅데이터 청년 인재 양성 사업>을 통해 빅데이터 분석을 배웠습니다. 현재 **<삼성 청년 SW 아카데미 7 기>**로 입과, 일과 중 대부분을 웹 개발에 매진하고 있습니다.
+<공공 빅데이터 청년 인재 양성 사업>을 통해 빅데이터 분석을 배웠습니다. 현재 <삼성 청년 SW 아카데미 7 기>로 입과, 일과 중 대부분을 웹 개발에 매진하고 있습니다.
 
 3번의 프로젝트에서 모두 PM으로 웹과 앱 서비스를 기획/개발/배포/운영하였습니다. 대회에 나갔던 2번의 프로젝트는 모두 성공적으로 마무리, 우수상과 최우수상을 받는 성과를 이뤘습니다. 또한, 공공기관에서 빅데이터 분석 일경험 수련생으로 근무한 경험이 있습니다.
 
@@ -75,9 +75,9 @@ wls4845@naver.com
 
 2022.08.22-2022.10.07
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d40fac5-67a5-4e1b-911a-9f794af099a8/Untitled.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d40fac5-67a5-4e1b-911a-9f794af099a8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T172828Z&X-Amz-Expires=86400&X-Amz-Signature=8e9bf0bf95923f3cab75d9f1bf263bfff35483a61cd136a9d208a531973af526&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="600" height="400" />
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3b3ca05-71ce-418c-9469-9ef6b9d27770/Untitled.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3b3ca05-71ce-418c-9469-9ef6b9d27770/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T172948Z&X-Amz-Expires=86400&X-Amz-Signature=c5d2b18c5c8690fc416faf94d3e8a4009f836ccc96bcb1f26f44b58152fcd4ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="600" height="400" />
 
 ### Stacks.
 
@@ -115,9 +115,9 @@ Django, MySQL, AWS(EC2), Amazon S3, Docker, React.js, HTML/CSS, Jira, GitLab, Sw
 
 2022.07.05-2022.08.18
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ec35943-d229-462d-a585-65b8028e2275/Untitled.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ec35943-d229-462d-a585-65b8028e2275/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173006Z&X-Amz-Expires=86400&X-Amz-Signature=61228ebc0f6a588d46251cbbb9fa73c17115e7244a09953fd225914d5a6c7fbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="720" height="400" />
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4af90fdf-3b06-4e3b-a2e2-b858fbb1de93/Untitled.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4af90fdf-3b06-4e3b-a2e2-b858fbb1de93/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173029Z&X-Amz-Expires=86400&X-Amz-Signature=31e586af8b867b88c2d8c1313c5991c168ffc304817496e89201e4feb8d8a9d5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
 
 ### Stacks.
 
@@ -150,9 +150,9 @@ Javascript, React.js, OpenVidu, HTML/CSS, Jira, GitLab
 
 2022.05.16-2022.05.27
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf570f9a-2e6b-447f-b498-7314142d1c6d/Untitled.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf570f9a-2e6b-447f-b498-7314142d1c6d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173229Z&X-Amz-Expires=86400&X-Amz-Signature=3df298bcf5079f2f994dd10e49286be0a66bfc41b963937567ad270551c699e3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d1c1cea-d188-44b1-b5ad-de3308cd44db/Untitled.png)
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d1c1cea-d188-44b1-b5ad-de3308cd44db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173250Z&X-Amz-Expires=86400&X-Amz-Signature=791ea6811568e823985747a1011d3303f413c6113fdc4c4dc2769a388887fc39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
 
 ### Stacks.
 
@@ -262,4 +262,4 @@ Python, Vue.js, Django, Sqlite, HTML/CSS, GitLab, Slack
 # Education.
 
 
-2014.03-2021.02 부산대학교 고고학과
+2014.03-2021.02 부산대학교
