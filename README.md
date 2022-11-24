@@ -30,13 +30,15 @@ wls4845@naver.com
 # Introduce.
 
 
-<공공 빅데이터 청년 인재 양성 사업>을 통해 빅데이터 분석을 배웠습니다. 현재 <삼성 청년 SW 아카데미 7 기>로 입과, 일과 중 대부분을 웹 개발에 매진하고 있습니다.
+<공공 빅데이터 청년 인재 양성 사업>을 통해 빅데이터 분석을 배웠습니다. 현재 **<삼성 청년 SW 아카데미 7 기>**로 입과, 일과 중 대부분을 웹 개발에 매진하고 있습니다.
 
-3번의 프로젝트에서 모두 PM으로 웹과 앱 서비스를 기획/개발/배포/운영하였습니다. 대회에 나갔던 2번의 프로젝트는 모두 성공적으로 마무리, 우수상과 최우수상을 받는 성과를 이뤘습니다. 또한, 공공기관에서 빅데이터 분석 일경험 수련생으로 근무한 경험이 있습니다.
+총 4번의 프로젝트에서 2차례 웹 풀스택 개발, 2차례 프론트 개발을 하였습니다. 백단의 코드를 짜고, 프론트에서 API 통신 후 필요한 데이터를 다시 백단에서 리팩토링하고는 하였습니다.
 
-데이터베이스에 테이블 하나를 생성할 때도 운영 측에 정보를 잘 전달하고 있는지 고려합니다. 설명 없이도 모두가 이해할 수 있는 쉬운 코드를 짜는 것, 함수화 및 모듈화, 재사용성에 관심이 많습니다.
+프로젝트 모두 PM으로 웹과 앱 서비스를 기획/개발/배포/운영하였고, 3차례 우수상과 최우수상을 받는 성과를 이뤘습니다. 
 
-혼자 하는 일은 없다고 생각하기에 다양한 사람들과 적극적으로 협업 해왔습니다. 또한, 5개의 스터디를 운영함으로써 지식을 함양하고 개발에 대한 열정을 불태우고 있습니다.
+또한, 공공기관에서 빅데이터 분석 일경험 수련생으로 근무한 경험이 있습니다. 웹 개발과 더불어 빅데이터에 대한 역량까지 겸비하였습니다.
+
+설명 없이도 모두가 이해할 수 있는 쉬운 코드를 짜는 것, 함수화 및 모듈화, 재사용성에 관심이 많습니다. 혼자 하는 일은 없다고 생각하기에 다양한 사람들과 적극적으로 협업 해왔습니다. 현재는 웹 프로젝트 및 3개의 스터디를 운영함으로써 지식을 함양하고 개발에 대한 열정을 불태우고 있습니다.
 
 # Stacks.
 
@@ -65,6 +67,40 @@ wls4845@naver.com
     - 도커라이징에 대해 이해하고 있습니다.
 
 # Projects.
+    
+    
+## 가게 사장
+
+**소상공인 및 예비 창업가를 위한 상권 정보 웹 서비스**
+
+💻 **PM**, 기획,  **Front-End**
+
+🏆 SSAFY 자율 프로젝트 우수상
+
+2022.10.10-2022.11.21
+
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/165a81dc-8b01-468d-9921-69bbfc39e07c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T023610Z&X-Amz-Expires=86400&X-Amz-Signature=cf29daa7d63fbbbd3da789988e23e01552bb8e0ef0c03e9ccfaec97e33cb9b41&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width="800" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6fe26788-337c-4275-9524-8b3713674e2c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T024248Z&X-Amz-Expires=86400&X-Amz-Signature=e055f78f8e52784ea638f8ec3a40c90c364e5dcb0f97b27eb712d13890fc9d62&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width="800" height="400" />
+
+### Stacks.
+
+Typescript, React.js, Redux.js, Styled-components, Storybook, HTML/CSS, Jira, GitLab, D3.json, Chart.js
+
+### Project-Managing.
+
+- 프로젝트 세부사항 기획 및 목업
+- Jira 및 Git 형상 관리
+
+### Front-End(React).
+
+- Atomic Design Pattern을 활용한 컴포넌트 분리
+- Storybook을 통한 디자인 시스템
+- 상권 현황 메인 페이지 D3.js, geojson을 통한 지도 구현
+- 키워드 애니메이션
+- Chart.js를 통한 커스텀 차트 구현
+- React Query로 API 상태 관리 및 캐싱
+- 차트 데이터 캐싱
+- React.lazy를 통한 코드 스플리팅
 
 
 ## Planty
@@ -75,9 +111,9 @@ wls4845@naver.com
 
 2022.08.22-2022.10.07
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d40fac5-67a5-4e1b-911a-9f794af099a8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T172828Z&X-Amz-Expires=86400&X-Amz-Signature=8e9bf0bf95923f3cab75d9f1bf263bfff35483a61cd136a9d208a531973af526&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="600" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d40fac5-67a5-4e1b-911a-9f794af099a8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T024432Z&X-Amz-Expires=86400&X-Amz-Signature=ab7d7ada3e479de149a1cc27a2ea9593b228c5a3dd815ec6a54fdec95d7bf498&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width="700" height="500" />
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3b3ca05-71ce-418c-9469-9ef6b9d27770/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T172948Z&X-Amz-Expires=86400&X-Amz-Signature=c5d2b18c5c8690fc416faf94d3e8a4009f836ccc96bcb1f26f44b58152fcd4ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="600" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6cf1aec5-8530-45c7-8160-67bd1d653862/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T025408Z&X-Amz-Expires=86400&X-Amz-Signature=4627b40427783294bd9203352d61e6984b46ff0f336e48e2691ed84d4eb98eca&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width="700" height="400" />
 
 ### Stacks.
 
@@ -115,9 +151,9 @@ Django, MySQL, AWS(EC2), Amazon S3, Docker, React.js, HTML/CSS, Jira, GitLab, Sw
 
 2022.07.05-2022.08.18
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ec35943-d229-462d-a585-65b8028e2275/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173006Z&X-Amz-Expires=86400&X-Amz-Signature=61228ebc0f6a588d46251cbbb9fa73c17115e7244a09953fd225914d5a6c7fbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" width="720" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ec35943-d229-462d-a585-65b8028e2275/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T025550Z&X-Amz-Expires=86400&X-Amz-Signature=101c62bbb82b42b4d843ee560e7d4a7a95968d4d23370dcc7e6986420c3eed80&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width="800" height="400" />
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4af90fdf-3b06-4e3b-a2e2-b858fbb1de93/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173029Z&X-Amz-Expires=86400&X-Amz-Signature=31e586af8b867b88c2d8c1313c5991c168ffc304817496e89201e4feb8d8a9d5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4af90fdf-3b06-4e3b-a2e2-b858fbb1de93/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T025638Z&X-Amz-Expires=86400&X-Amz-Signature=2bca0996ee45ef9a07ea1e191a8efcde38c269c18245d6f5d665aecca9dbc0f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" widh="700" height="450" />
 
 ### Stacks.
 
@@ -150,9 +186,9 @@ Javascript, React.js, OpenVidu, HTML/CSS, Jira, GitLab
 
 2022.05.16-2022.05.27
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf570f9a-2e6b-447f-b498-7314142d1c6d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173229Z&X-Amz-Expires=86400&X-Amz-Signature=3df298bcf5079f2f994dd10e49286be0a66bfc41b963937567ad270551c699e3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf570f9a-2e6b-447f-b498-7314142d1c6d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T025739Z&X-Amz-Expires=86400&X-Amz-Signature=d133060cede7e322518afe5a09ff554fe6759ff1127924839927b7121f19c57c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d1c1cea-d188-44b1-b5ad-de3308cd44db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221023%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221023T173250Z&X-Amz-Expires=86400&X-Amz-Signature=791ea6811568e823985747a1011d3303f413c6113fdc4c4dc2769a388887fc39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d1c1cea-d188-44b1-b5ad-de3308cd44db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T025753Z&X-Amz-Expires=86400&X-Amz-Signature=26bc626d4e7026497b76623759fdd939bf283144917e7ada4e9c676900ac69a3&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" widh="500" height="400" />
 
 ### Stacks.
 
