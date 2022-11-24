@@ -19,16 +19,12 @@
 
 wls4845@naver.com
 
-## Blog.
-
-[meaningood의 Tech_it](https://meaningood.tistory.com/)
-
 ### 📞 Phone.
 
 010-7540-1112
+    
 
 # Introduce.
-
 
 <공공 빅데이터 청년 인재 양성 사업>을 통해 빅데이터 분석을 배웠습니다. 현재 **<삼성 청년 SW 아카데미 7 기>**로 입과, 일과 중 대부분을 웹 개발에 매진하고 있습니다.
 
