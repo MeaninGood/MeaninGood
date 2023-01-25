@@ -112,11 +112,11 @@ wls4845@naver.com
 ![그림4](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/54fda9f0-4f70-408d-b7eb-0e3b62007978/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062446Z&X-Amz-Expires=86400&X-Amz-Signature=e52c67eed2260ac99bac4943b65b4c02c94c8fe66f22b09476ec923deae44468&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 <aside>
-💡 약 180만 건의 데이터를 다루고 다량의 차트를 구현했던 만큼 최적화와, 컴포넌트  공을 들였던 프로젝트입니다. 차트에 들어가는 데이터는 그 자체로도 양이 방대할 뿐더러, 분석 파트에서는 데이터 분석 로직까지 들어가 응답 시간이 여태까지 만들었던 서비스 중 가장 길었기 때문입니다.
+💡 약 180만 건의 데이터를 다루고 다량의 차트를 구현했던 만큼 최적화와, 컴포넌트 분리에 공을 들였던 프로젝트입니다. 차트에 들어가는 데이터는 그 자체로도 양이 방대할 뿐더러, 분석 파트에서는 데이터 분석 로직까지 들어가 만들었던 서비스 중 응답시간이 가장 길었기 때문입니다.
 
 API 상태 관리를 따로 하고, 한 번 보낸 요청은 캐싱하여 중복된 요청을 보내지 않게 처리하였습니다. 또한 SPA의 단점을 보완하고자 코드 스플리팅을 통해 렌더링 속도를 개선하였습니다.
 
-확장성과 유지보수를 위해 디자인 패턴을 도입하였고, StroryBook으로 각 컴포넌트들을 알아보기 쉽게 분리하였습니다. 다른 파트를 개발하더라도 같은 컴포넌트 및 양식을 공유해서 쓰는 경우가 많았는데, 이를 재사용함으로써 로직과 UI의 통일성을 보다 쉽게 갖출 수 있었습니다.
+확장성과 유지보수를 위해 디자인 패턴을 도입하였고, StroryBook으로 각 컴포넌트들을 알아보기 쉽게 분리하였습니다. 다른 파트를 개발하더라도 같은 컴포넌트 및 양식을 공유해서 쓰는 경우가 많았는데, 이를 재사용함으로써 로직과 UI의 통일성을 보다 쉽게 갖출 수 있었습니다. 
 
 </aside>
 
