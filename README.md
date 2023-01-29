@@ -15,10 +15,6 @@
 
 </aside>
 
-## GitHub.
-
-[MeaninGood - Overview](https://github.com/MeaninGood)
-
 ### 📞 Phone.
 
 010-7540-1112
@@ -28,15 +24,14 @@
 wls4845@naver.com
 
 # Introduce.
-<공공 빅데이터 청년 인재 양성 사업>을 통해 빅데이터 분석을 하며 코딩을 처음 접했고, 사람이 일일이 해야 하는 일을 프로그램만 짜서 컴퓨터가 해주는 것이 신기하다고 생각하였습니다. 이후 코딩에 대한 흥미로 <삼성 청년 SW 아카데미 7 기>로 입과, 일과 중 대부분의 시간을 알고리즘과 웹 개발을 하며 보냈습니다.
+<서비스는 ‘읽는 것’이 아닌 ‘보는 것’이라고 생각합니다.>
 
-총 4번의 프로젝트에서 2차례 웹 풀스택 개발을 하였습니다. 따라서 백엔드와 원활하게 소통할 수 있는 인재입니다.
+삼성 청년 SW아카데미 7기 수료생으로 총 4번의 프로젝트를 진행하며, 서비스의 가치를 극대화하는 프론트엔드 개발에 흥미를 느꼈습니다. 고객에게 제공되는 모든 서비스는 단순히 ‘읽는 것’이 아닌 ‘보는 것’이라고 생각하여 우리의 서비스를 편리하고 빠르게, 적절한 곳에 보여주는 일련의 과정들이 좋은 경험으로 다가왔기 때문입니다.
 
-프론트엔드 개발자로서 확장성과 유지보수에 좋은 구조를 설계해 효율적으로 개발하는 것에 관심이 많습니다. 프로젝트를 진행하며 느꼈던 불편함을 해소하고자 다양한 기술들을 도입하였고, 이에 대한 공부를 꾸준히 해나가고 있습니다.
+4번의 프로젝트 중 3번을 수상하는 성과를 이루었습니다. 특히 “소상공인을 위한 상권 정보 서비스” 프로젝트는 SSAFY 부울경 캠퍼스 대표 프로젝트로 선정되기도 하였습니다. 이러한 결과를 얻을 수 있었던 이유는 제가 뛰어난 사람이어서가 아니라, “어떻게 잘 구현할 수 있을까?”라는 질문을 끊임없이 던지며 기술적인 부족함을 스스로 파악하고, 개선하기 위해 노력했기 때문입니다.
 
-또한, 프로젝트 모두 PM으로 웹과 앱 서비스를 기획/개발/배포/운영하였습니다. 대회에 나갔던 4번의 프로젝트는 모두 성공적으로 마무리, 우수상과 최우수상을 받는 성과를 이뤘습니다. 
-
-“혼자서 하는 일은 없다”고 생각하기에 다양한 사람들과 적극적으로 협업 해왔습니다. 현재는 웹 프로젝트 및 3개의 스터디를 운영함으로써 지식을 함양하고 개발에 대한 열정을 불태우고 있습니다.
+또한 저는 업무에 대한 몰입도가 높고, 이를 지속적으로 끌고 나갈 수 있는 책임감이 있습니다. 모든 프로젝트에서 연속적으로 팀장으로 임할 수 있었던 이유도 이러한 성향 때문이 아닐까 싶습니다. 팀의 중심에서 소통하며 기획부터 배포까지의 모든 과정을 함께했던 만큼, 말과 글로써 의사를 전달하는 방식을 잘 알고 있는 사람입니다. 시간이 지날수록 바뀌고, 다양해지는 고객의 니즈를 잘 파악하고, 적극적으로 협업할 수 있는 개발자가 되려고 노력합니다.
+    
 
 # Stacks.
 
@@ -103,13 +98,14 @@ wls4845@naver.com
 - 차트 데이터 캐싱
 - React.lazy를 통한 코드 스플리팅
 
-![그림1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/803a56c9-9e85-487c-bd01-16baf5ad7257/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T060652Z&X-Amz-Expires=86400&X-Amz-Signature=fbcc3bc3d6ad6caa50b3aa1e006297af0bdc4d25477dd428c842fc2422c1631e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![gage_1](https://user-images.githubusercontent.com/92563854/215327420-bec2e4df-a2e9-46b0-916f-c0c2d845fd69.png)
 
-![그림2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ffcbeba-a8f3-4820-bbfe-0007dd570539/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062036Z&X-Amz-Expires=86400&X-Amz-Signature=f0c40febf700a3ffdd8271a6acdf7cfab588ab34bbc785021c1c9c19e334e312&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
-![그림3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ced676aa-6dc5-4b1a-bd10-8e7e16795fb8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062431Z&X-Amz-Expires=86400&X-Amz-Signature=c4ce8251e8e1912f978d9616c49c24971cb04499347fdb5570fc94d26025fca2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![gage_2](https://user-images.githubusercontent.com/92563854/215327429-6313b8f2-d5f5-4ffa-8956-44aefdf03861.png)
 
-![그림4](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/54fda9f0-4f70-408d-b7eb-0e3b62007978/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062446Z&X-Amz-Expires=86400&X-Amz-Signature=e52c67eed2260ac99bac4943b65b4c02c94c8fe66f22b09476ec923deae44468&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![gage_3](https://user-images.githubusercontent.com/92563854/215327435-d2cecfb2-fe66-40b3-8bd9-62e091349517.png)
+
+![gage_4](https://user-images.githubusercontent.com/92563854/215327445-9c9fb845-0eff-44b7-baac-5eb286f78306.png)
 
 <aside>
 💡 약 180만 건의 데이터를 다루고 다량의 차트를 구현했던 만큼 최적화와, 컴포넌트 분리에 공을 들였던 프로젝트입니다. 차트에 들어가는 데이터는 그 자체로도 양이 방대할 뿐더러, 분석 파트에서는 데이터 분석 로직까지 들어가 만들었던 서비스 중 응답시간이 가장 길었기 때문입니다.
@@ -153,11 +149,11 @@ API 상태 관리를 따로 하고, 한 번 보낸 요청은 캐싱하여 중복
 - query params를 이용한 식물 검색 및 페이지네이션
 - Swagger를 통한 API문서 자동화
 
-![그림1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d40fac5-67a5-4e1b-911a-9f794af099a8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062500Z&X-Amz-Expires=86400&X-Amz-Signature=c3ac96b4a7b713af31628d50175fc4f07f14c908f8880cf13c1e52f1a5d62949&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![planty_1](https://user-images.githubusercontent.com/92563854/215327460-bb3cc01e-c14a-40b3-86f7-12227e630292.png)
 
-![그림2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aa556e8d-67f3-44d7-9350-68f03843103b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062515Z&X-Amz-Expires=86400&X-Amz-Signature=3cd60d159be0ae0b8faa1c81838a5a0e5ffd2c57c38da02b78f4b0918d177bcc&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![planty_2](https://user-images.githubusercontent.com/92563854/215327467-86ce813b-b7b2-40b5-87e7-cbe682caf2d9.png)
 
-![그림3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62c025cb-1a26-4974-8861-f1f9cf577446/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062527Z&X-Amz-Expires=86400&X-Amz-Signature=e047899a9423352d58900a9a637825f0af52dbffd37e878fcefc51f5d6761c3c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![planty_3](https://user-images.githubusercontent.com/92563854/215327472-2190501c-7f77-469a-b3f2-7af95cb7ccbc.png)
 
 <aside>
 💡 풀스택 개발을 하며 백과 프론트를 모두 경험했던 프로젝트입니다. 기존 프로젝트에서 유지보수에 어려움을 느꼈고, 이번에는 프론트 디렉토리를 API, features, pages, styles 등 기능별로 분리하여 구현하였습니다.
@@ -199,11 +195,11 @@ API 상태 관리를 따로 하고, 한 번 보낸 요청은 캐싱하여 중복
 
 - React + Spring 통합 빌드
 
-![그림1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5758c7ac-8228-4890-be11-d4f8b0936e7a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062543Z&X-Amz-Expires=86400&X-Amz-Signature=59c5fd6156c8da5e129daa9295b52894fbe37aa49ac52003563cbe875a282370&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![octop_1](https://user-images.githubusercontent.com/92563854/215327479-87312e7f-dcf9-4f6e-9617-195feeb2fd3e.png)
 
-![그림2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ec35943-d229-462d-a585-65b8028e2275/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062554Z&X-Amz-Expires=86400&X-Amz-Signature=26948845d51f668460b49c51f55c8c20699aeb7d418d86c3556b5792178581a1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![octop_2](https://user-images.githubusercontent.com/92563854/215327485-cb246766-a394-4181-a0aa-7d55d5495822.png)
 
-![그림3](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31f9892f-a842-4eb3-90bd-1c7967df7a87/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062603Z&X-Amz-Expires=86400&X-Amz-Signature=d8d284a370f1ca09f19095422efb76b19a87fcfc0729b74cca015dfc17ed8d05&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![octop_3](https://user-images.githubusercontent.com/92563854/215327487-56d5af4c-adb0-49e9-8805-1803c73bc1f0.png)
 
 <aside>
 💡 처음으로 기획부터 배포까지 완성시킨 프로젝트였습니다. WebRTC 오픈소스를 활용하며 방대한 코드 양에 당황하였고, React도 독학으로 공부하여 진행해야 했기 때문에 학습과 개발을 병행하였습니다.
@@ -250,9 +246,9 @@ API 상태 관리를 따로 하고, 한 번 보낸 요청은 캐싱하여 중복
 - Auth user model 기반 유저CRUD, 팔로우
 - TMDB API 활용 영화 데이터 제공
 
-![그림1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf570f9a-2e6b-447f-b498-7314142d1c6d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062615Z&X-Amz-Expires=86400&X-Amz-Signature=9670c01c31c443e9923f56fcf8a3b0c65e203da5581acf0b078a2b7a45e0b790&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![uoir_1](https://user-images.githubusercontent.com/92563854/215327501-6d9e361e-a370-4709-8fd3-494c6157522b.png)
 
-![그림2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7d1c1cea-d188-44b1-b5ad-de3308cd44db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230125T062626Z&X-Amz-Expires=86400&X-Amz-Signature=9844c18e28405b8f97c303ec1a12a056a5cbef0b18f3f065ab32c6549c6343a1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![uoir_2](https://user-images.githubusercontent.com/92563854/215327505-acd53c3d-1c06-4ca9-bc3c-3324c84683fa.png)
 
 <aside>
 💡 범죄 영화 추천 서비스인 만큼 어둡고 무거운 분위기를 가져가고자 노력했습니다. 처음 진행했던 프로젝트였기 때문에 필요한 부분은 삼성 청년 SW 아카데미에서 배운 부분들을 활용하였고, Vue로 구현하였습니다.
