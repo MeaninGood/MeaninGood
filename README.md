@@ -8,11 +8,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wls4845&theme=dark) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wls4845)](https://solved.ac/wls4845)
 
 
-<aside>
-💡 프론트엔드 개발자를 희망하고 있습니다.
-최근 관심사는 좋은 코드와 최적화이고, “하나만 더 보고 자야지”가 일상인 사람입니다.
-좌우명은 <혼자서 하는 일은 없다>입니다.
-
 </aside>
 
 ### 📞 Phone.
