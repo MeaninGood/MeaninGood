@@ -81,7 +81,7 @@ wls4845@naver.com
 
 ### Stacks.
 
-**Typescript, React.js, Redux.js, Styled-components, Storybook,** HTML/CSS, Jira, GitLab, Figma
+**Typescript, React.js, ReactQuery, Styled-components, Storybook,** HTML/CSS, Jira, GitLab, Figma
 
 ### Front-End(ReactJS & Typescript).
 
